@@ -1,9 +1,12 @@
 # music_player
 This repository contains a music player project implemented using HTML and CSS. The project aims to create an intuitive and user-friendly music player interface that allows users to play, pause, skip, and control the playback of their favourite songs.
+
 Music Player Project
+
 This project is a music player implemented using HTML and CSS. It provides a user-friendly interface for playing, pausing, and controlling the playback of songs. The project aims to create an immersive music listening experience with features such as track navigation, volume control, and album artwork display.
 
 Table of Contents
+
 Features
 Demo
 Getting Started
