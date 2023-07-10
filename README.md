@@ -31,7 +31,7 @@ To get a local copy of the project up and running, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/music-player-project.git
+git clone https://github.com/geekpiyush/music-player-project.git
 
 Navigate to the project directory:
 
